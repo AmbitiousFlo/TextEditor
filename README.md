@@ -11,6 +11,11 @@ To access the Text Editor Web Application, visit [Text Editor](https://textedito
 Simply open the provided URL in your web browser to start using the text editor.
 ![Screenshot of project](./client/src/images/texteditimg.png)
 
+## Credits
+
+Phil Loy
+
+
  
 ## License
 This project is licensed under the MIT License.
